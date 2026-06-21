@@ -158,9 +158,9 @@ visualised in [clustering_metrics.png](results/clustering_metrics.png)*
 
 | Feature space              | n_features | Silhouette | Calinski-H | **ARI** | **NMI** |
 |---------------------------|-----------:|-----------:|-----------:|--------:|--------:|
+| Radiomics (selected)       | 19         | 0.15       | 196.2      | 0.272   | 0.296   |
 | CNN, pretrained (ImageNet) | 585 (PCA)  | 0.06       | 38.5       | 0.249   | 0.219   |
 | **CNN, fine-tuned**        | 374 (PCA)  | 0.31       | 360.4      | **0.960** | **0.925** |
-| Radiomics (selected)       | 19         | 0.15       | 196.2      | 0.272   | 0.296   |
 
 ### How to read
 
