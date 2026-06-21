@@ -4,12 +4,6 @@
 
 > **Do CNNs Learn Radiomic Concepts? A Feature-Space and Attention-Based Audit
 > for Brain Tumor MRI Classification**
-
-This document walks through every experimental result of this project,
-**organised by the paper's storyline** rather than the order in which
-experiments were run. Each section explains *what we measured*, *what
-the number is*, *how to read it*, and *what it proves*.
-
 ---
 
 ## 📖 The Story Arc
