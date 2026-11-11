@@ -1,4 +1,4 @@
-# MICCAI-2026-iMIMIC-Workshop
+# MICCAI-2026-MLCN-Workshop
 
 # Brain Tumor MRI Classification — Experimental Results
 
