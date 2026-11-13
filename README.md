@@ -12,7 +12,7 @@
 *MICCAI 2026 Workshop on Machine Learning in Clinical Neuroimaging (MLCN)*
 
 [![Paper](https://img.shields.io/badge/Paper-Open%20Access-b31b1b.svg)](https://papers.miccai.org/miccai-2026-sat/paper/MLCN_2026_035.pdf)
-[![Venue](https://img.shields.io/badge/Workshop-MLCN%20%20@%20MICCAI%20-1f6feb.svg)](https://mlcnworkshop.github.io)
+[![Venue](https://img.shields.io/badge/Workshop-MLCN%20@%20MICCAI-1f6feb.svg)](https://mlcnworkshop.github.io)
 [![Data](https://img.shields.io/badge/Data-Cheng%20%2F%20Figshare-6f42c1.svg)](https://doi.org/10.1371/journal.pone.0140381)
 
 <img src="docs/fig1_shifted_input.png" width="680" alt="Grad-CAM follows tumors re-cropped to the image corner">
