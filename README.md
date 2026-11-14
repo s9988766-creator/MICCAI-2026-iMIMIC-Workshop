@@ -14,6 +14,7 @@
 [![Paper](https://img.shields.io/badge/Paper-Open%20Access-b31b1b.svg)](https://papers.miccai.org/miccai-2026-sat/paper/MLCN_2026_035.pdf)
 [![Venue](https://img.shields.io/badge/Workshop-MLCN%20@%20MICCAI-1f6feb.svg)](https://mlcnworkshop.github.io)
 [![Data](https://img.shields.io/badge/Data-Cheng%20%2F%20Figshare-6f42c1.svg)](https://doi.org/10.1371/journal.pone.0140381)
+[![Tutorial](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E5%B0%8E%E8%AE%80-%E4%BA%92%E5%8B%95%E7%89%88-d2602a.svg)](https://s9988766-creator.github.io/tutorials/mlcn2026/)
 
 <img src="docs/fig1_shifted_input.png" width="680" alt="Grad-CAM follows tumors re-cropped to the image corner">
 
